@@ -13,3 +13,12 @@
     height: 150px;
     background-color: hsl(40, 20%, 40%);
 }
+a[title]{
+    color:orange;
+}
+button:hover{
+    background-color:pink;
+}
+input:disabled{
+    border:2px solid orange;
+}
